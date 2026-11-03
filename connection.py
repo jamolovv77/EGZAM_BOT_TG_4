@@ -1,3 +1,4 @@
+
 from dotenv import load_dotenv
 import asyncpg
 import os
@@ -38,9 +39,8 @@ async def create_table():
             purchased_at timestamp not null default now()
         );
         """)
-        
-        print("bot started ✅")
+        print("✅ Table created")
     except Exception as Error:
-        print(f"Create Error: {Error} ❌")
+        print(f"❌ Create Error: {Error}")
     finally:
         await conn.close()

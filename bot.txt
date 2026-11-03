@@ -23,6 +23,7 @@
 
 Мисол:
 
+katalog boyad faromuw kardam katalog boyad hammai mahsulotro noiwon dihad nekem producthoi ki xudam dob kardam onro fakat xudam binam
 /product 5
 
 Яъне маълумоти маҳсулоте, ки ID-и он 5 аст, нишон дода мешавад.
